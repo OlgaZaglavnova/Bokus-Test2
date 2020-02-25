@@ -1,0 +1,65 @@
+.container {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: Arial;
+}
+
+.header {
+  color: white;
+  background-color: #bc0600;
+  width: 100%;
+  height: 60px;
+  padding-left: 30px;
+  padding-top: 23px;
+  font-size: 14px;
+}
+
+.main {
+  height: 100%;
+  background-color: white;
+  padding: 30px;
+}
+
+.main__title {
+  font-size: 40px;
+  font-weight: bolder;
+  color: #bc0600;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.main__description {
+  text-align: center;
+  color: #b8b8b8;
+  margin-top: 30px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.login {
+  color: #b8b8b8;
+  margin-top: 30px;
+  line-height: 20px;
+  font-size: 12px;
+}
+
+.login label {
+  padding: 20px;
+}
+
+.login__inputField {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #b8b8b8;
+  padding: 10px;
+}
+
+.login__submitBtn {
+  width: 90%;
+  height: 40px;
+  margin: 20px 5%;
+  background-color: #bc0600;
+  color: white;
+  border-radius: 7px;
+}
+/*# sourceMappingURL=LoginPage.css.map */
